@@ -9,4 +9,4 @@ The Report branch provides 2 analysis work I use excel tool to create pivot tabl
 - Overview of dataset.
 - Total sale every quarter during 2019.
 - Filter customers' state and city, and product's categories.
-- Calculate sales and revenues by cities and products every month.
+- Calculate sales and revenues by cities, and products every month.
